@@ -9,18 +9,6 @@ GREEN='\033[0;32m' 	#GREEN COLOUR
 CYAN='\033[0;31m'	#RED COLOUR
 YELLOW='\033[1;33m'
 
-#Banner
-echo "==============================================================="
-echo " ssssss   kk  kk  yy    yy  tttttttt  eeeeee    ccccc  hh    hh"  
-echo "ss        kk kk    yy  yy   tttttttt  ee       cc      hh    hh"
-echo " sssss    kkkk      yyyy       tt     eeeee   cc       hhhhhhhh"
-echo "      ss  kk  kk     yy        tt     ee       cc      hh    hh"
-echo "ssssss    kk   kk    yy        tt     eeeeee    ccccc  hh    hh"
-echo "==============================================================="
-
-echo "${CYAN}Downloaded from www.extrabits.tk"
-echo "Contact us at support@extrabits.tk"
-
 #store current path
 home=`pwd`
 echo $home
