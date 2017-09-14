@@ -11,7 +11,8 @@ YELLOW='\033[1;33m'
 
 #Banner
 echo "======================================================"
-                                                  
+echo "+ Install Apache Hbase on UBUNTU in standalone mode  +"
+echo "======================================================"                                                  
 echo "    [0;1;34;94m▄▄▄▄[0m   [0;34m▄▄▄▄▄▄[0m               [0;37m▄▄▄▄▄[0m   [0;1;30;90m▄▄▄[0m    [0;1;30;90m▄▄▄[0m"
 echo "  [0;34m██▀▀▀▀█[0m  [0;34m██▀▀▀[0;37m▀██[0m   [0;37m▄████▄[0m   [0;37m█[0;1;30;90m▀▀▀▀██▄[0m  [0;1;30;90m██▄[0m  [0;1;30;90m▄█[0;1;34;94m█[0m" 
 echo " [0;34m██▀[0m       [0;37m██[0m    [0;37m██[0m [0;37m▄██▀[0m  [0;1;30;90m▀██[0m        [0;1;30;90m██[0m   [0;1;34;94m██▄▄██[0m " 
@@ -22,17 +23,22 @@ echo "    [0;1;30;90m▀▀▀▀[0m   [0;1;34;94m▀▀[0m    [0;1;34;94m�
 echo "                       [0;34m▀▀▀▀▀[0m"                      
                                                 
 echo "======================================================"
-echo "	Hbase installation in standalone mode"
-echo "	  Github: https://hibare.github.io/"
+echo "	Developed by: Shubham Hibare (CR@2Y)"
 echo "		Website: http://hibare.in"  
-echo "		License: MIT license"
+echo "	  Github: https://hibare.github.io/"
+echo "	Linkedin: https://linkedin.com/in/hibare"
+echo "		License: "
 echo "======================================================"
-
+echo "Disclaimer: Author of this script is not responsible 
+for any damage caused to your system from using this 
+script. Use this script at your own risk. You have 15 
+seconds to abort the process"
+echo "======================================================"
+sleep 15
 
 #store current path
 home=`pwd`
 echo $home
-
 
 #JDK installation
 
