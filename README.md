@@ -1,19 +1,13 @@
 =================================================================================
 +               Install Apache Hbase on UBUNTU in standalone mode               +
 =================================================================================
-                       mmm  mmmmm          mmmm m     m
-                     m"   " #   "#  m""#m "   "# "m m" 
-                     #      #mmmm" #  mm#     m"  "#"  
-                     #      #   "m # #  #   m"     #   
-                      "mmm" #    " #m """ m#mmmm   #   
-                                    "mmm               
-                
                     Developed by: Shubham Hibare (CR@2Y)
                         website: http://hibare.in
                     Linkedin: https://linkedin.com/in/hibare
                         Github: https://hibare.github.io
                             License: MIT License
 =================================================================================
+
 What it is?
 It is a shell script to install Apache Hbase on UBUNTU in standalone mode. This script is tested on UBUNTU 16.04 LTS and works perfectly on the test machine. 
 This shell script is expected to work on any version of UBUNTU.
