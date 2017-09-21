@@ -18,11 +18,6 @@ What it is?
 It is a shell script to install Apache Hbase on UBUNTU in standalone mode. This script is tested on UBUNTU 16.04 LTS and works perfectly on the test machine. 
 This shell script is expected to work on any version of UBUNTU.
 
-Whom it is for?
-This script is intended for the users who has less to no knowledge about how linux works? and for those who wants to experience how Apache Hbase works without going 
-into the installation part of it. This script automates the tedious installation 
-process of Apache Hbase on UBUNTU.
-
 How to use this script?
 Step 1: Clone this repository. After cloning, you'll have these three files in the directory: install.sh, LICENSE.txt and README.md. 
 
@@ -36,4 +31,4 @@ Step 4: Fire-up a terminal and get super user access (root access). Navigate to 
 
 Disclaimer: Author of this script is not responsible for any damage caused to your system from using this script. Use this script at your own risk.
 
-Note: If any errors occur or for any query contact from here- http://hibare.in.
+Note: For any errors and queries contact from here- http://hibare.in.
